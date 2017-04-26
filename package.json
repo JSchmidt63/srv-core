@@ -1,0 +1,20 @@
+{
+    "name": "srv-core",
+    "version": "0.0.1",
+    "description": "Core functionality for server blueprint",
+    "license": "MIT",
+    "author": {
+        "name": "Aleksandras Novikovas",
+        "email": "Aleksandras.Novikovas@gmail.com"
+    },
+    "contributors": [],
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Aleksandras-Novikovas/srv-core.git"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+        "jsdoc": "^3.4.3"
+    }
+}
